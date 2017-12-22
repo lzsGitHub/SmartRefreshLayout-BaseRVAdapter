@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RefreshLayout</string>
+    <string name="error_message">empty_message</string>
+</resources>
